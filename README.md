@@ -42,3 +42,10 @@ This represents about **22% of the mean of the target variable**, which is accep
 ## Tech Stack
 - Python, Jupyter Notebook  
 - scikit-learn, pandas, matplotlib, seaborn, numpy
+
+## To Clone:
+Clone the repository using SSH:
+
+```bash
+git clone git@github.com:SamuelTre07/jamb-result-prediction.git
+cd jamb-result-prediction
